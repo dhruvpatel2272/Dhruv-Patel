@@ -198,13 +198,14 @@ input[type="checkbox"]{
 
       .icon {
         display: flex;
+        width: 30px;
         flex-direction: column;
         margin-left: 40px;
         margin-top: 150px;
       }
 
       .icon i{
-        padding: 0 0 20px 0;
+        margin: 0 0 20px 0;
       }
 }
 
